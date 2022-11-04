@@ -14,4 +14,4 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Omer!, a 23yo, Computer Science fresh graduate, software developer, and junior machine learning engineer.
+Hi, I'm Omer!, I'm 23yo, A computer Science fresh graduate, software developer, and junior machine learning engineer.
