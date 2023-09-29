@@ -15,3 +15,5 @@
 -->
 
 Hi, I'm Omer!, I'm 23yo, A computer Science fresh graduate, software developer, and junior machine learning engineer.
+<br>
+[![committers.top badge](https://user-badge.committers.top/sudan/omer358.svg)](https://user-badge.committers.top/sudan/omer358)
