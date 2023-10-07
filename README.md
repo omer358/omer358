@@ -14,8 +14,8 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Omer!, I'm 24, A fresh computer science graduate. Im interesting in back-end development and mobile development.
+Hi, I am Omer! I am 24, A fresh computer science graduate. Im interesting in back-end development and mobile development.
 <br>
 [![committers.top badge](https://user-badge.committers.top/sudan/omer358.svg)](https://user-badge.committers.top/sudan/omer358)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer358&show_icons=true&locale=en" alt="omer358" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer358&" alt="omer358" /></p>
