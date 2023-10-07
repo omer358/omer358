@@ -14,6 +14,8 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Omer!, I'm 23yo, A computer Science fresh graduate, software developer, and junior machine learning engineer.
+Hi, I'm Omer!, I'm 24, A fresh computer science graduate. Im interesting in back-end development and mobile development.
 <br>
 [![committers.top badge](https://user-badge.committers.top/sudan/omer358.svg)](https://user-badge.committers.top/sudan/omer358)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer358&" alt="omer358" /></p>
