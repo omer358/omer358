@@ -2,6 +2,7 @@
 
 Hi, I am Omer! I am 24, A fresh computer science graduate. I'm interested in back-end development and mobile development.
 
+[![committers.top badge](https://user-badge.committers.top/sudan/omer358.svg)](https://user-badge.committers.top/sudan/omer358)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omer358&label=Profile%20views&color=0e75b6&style=flat" alt="omer358" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omer358" alt="omer358" /></a> </p>
