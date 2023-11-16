@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Omer! I am 24, A fresh computer science graduate. I'm interested in back-end development and mobile development.
+Hi, I am Omer! A fresh computer science graduate. I'm interested in back-end development and mobile development.
 
 [![committers.top badge](https://user-badge.committers.top/sudan/omer358.svg)](https://user-badge.committers.top/sudan/omer358)
 
