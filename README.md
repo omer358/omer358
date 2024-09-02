@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I am Omer! A fresh computer science graduate. I'm interested in back-end development and mobile development.
+Hi, I am Omer! A Mobile Apps developer. I'm interested in Kotlin, KMP, and Flutter.
 
 [![committers.top badge](https://user-badge.committers.top/sudan/omer358.svg)](https://user-badge.committers.top/sudan/omer358)
 
