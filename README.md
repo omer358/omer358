@@ -1,5 +1,39 @@
 # 💫 About Me:
-🔭 I’m currently working on Native Android and Flutter<br>👯 I’m looking to collaborate on open-source projects<br>
+---
+
+🚀 **Flutter & Mobile Apps Developer | Clean Code Advocate | Full-Stack Enthusiast**  
+
+I am a **Mobile Apps Developer** with a strong background in **Kotlin and Flutter**, specializing in **clean architecture, TDD, and high-performance mobile applications**. I have a proven track record of **building scalable apps**, integrating **CI/CD pipelines**, and deploying **robust solutions** for Android and iOS.  
+
+Currently, at **AFAQ AL-TUTBIQAT FOR IT SYSTEMS**, I have been instrumental in:  
+✅ **Revamping UI/UX** for better user experience  
+✅ **Optimizing app performance** and reducing crashes  
+✅ **Integrating secure payment gateways (Moyasar)**  
+✅ **Deploying apps to Google Play & App Store**  
+
+### 🔹 Tech Stack & Expertise  
+✔ **Flutter, Dart, Kotlin, Jetpack Compose**  
+✔ **Bloc, Provider, MVVM, GetX**  
+✔ **Firebase, REST APIs, SQL, SQLite**  
+✔ **Spring Boot, Django, FastApis, Java, Python**
+✔ **CI/CD (GitHub Actions, Fastlane)**  
+✔ **Google Maps API, Firebase Hosting**  
+
+### 🔹 Notable Projects  
+🔹 **BeautyDate** – Salons exploring & booking app.
+🔹 **ConverterNow** – Open-source unit converter with 5K+ downloads  
+🔹 **Image Forgery Detection (99.5% accuracy)** – CNN-based digital forensics  
+🔹 **Remember Me** – Android app for remembering the people you've met.
+🔹 **E-Commerce App** – Flutter-based shopping experience  
+
+### 🔹 Open Source & Community  
+💡 I actively contribute to **open-source projects** on **GitHub** and was a **GDSC Lead** at Omdurman Islamic University, mentoring aspiring developers and leading tech initiatives.  
+
+I'm always open to discussing **mobile development, clean code, and emerging tech**. Let’s connect and innovate together! 🚀  
+
+📩 **Email:** omermaki358@gmail.com   
+
+---
 
 
 ## 🌐 Socials:
