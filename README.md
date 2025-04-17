@@ -78,7 +78,6 @@ At **AFAQ AL-TUTBIQAT FOR IT SYSTEMS**, I’ve been shipping production-level fe
 
 ---
 
-Want me to help plug in project repo links or even auto-generate a profile card for your Spring Boot projects? I got you. Just say the word.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omer358&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omer358&theme=dark&hide_border=false)<br/>
